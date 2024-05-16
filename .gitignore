@@ -17,3 +17,5 @@ runs/
 # JetBrains folder
 .idea/
 .env-erl/
+
+.DS_Store
